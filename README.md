@@ -18,7 +18,7 @@ I'm an enthusiastic and curious learner passionate about Artificial Intelligence
 
 ## 🛠️ Skills & Tools
 
-- **Languages:** Python, C++, JavaScript (basics)
+- **Languages:** Python, C++, HTML (basics)
 - **Tools & Concepts:** Git & GitHub, OOP, GUI (Tkinter), Problem Solving
 - **Learning:** Web development fundamentals, React (soon!), and backend basics
 
